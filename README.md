@@ -22,11 +22,6 @@ Control the snake to collect food, grow longer, and reach the target length whil
 
 ## Screenshots
 
-### Gameplay
-![Gameplay](screenshots/gameplay.png)
-
-### Pause
-![Pause](screenshots/pause.png)
-
-### Win Screen
-![Win Screen](screenshots/win.png)
+| Gameplay | Pause | Win |
+|----------|-------|-----|
+| ![](screenshots/gameplay.png) | ![](screenshots/pause.png) | ![](screenshots/win.png) |
