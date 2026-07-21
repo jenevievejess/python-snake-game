@@ -25,3 +25,12 @@ Control the snake to collect food, grow longer, and reach the target length whil
 | Gameplay | Pause | Win |
 |----------|----------|----------|
 | ![](screenshots/gameplay.png) | ![](screenshots/pause.png) | ![](screenshots/win.png) |
+
+## How to Run
+
+Requires **Python 3** (Tkinter comes built-in).
+
+```bash
+python snake_game.py
+```
+\
