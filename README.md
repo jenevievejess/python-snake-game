@@ -33,4 +33,3 @@ Requires **Python 3** (Tkinter comes built-in).
 ```bash
 python snake_game.py
 ```
-\
